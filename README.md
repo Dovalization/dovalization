@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ✨ &nbsp; Passionate about Front-End development and UI/UX design.
 - 🎓 &nbsp; Master's degree in Design and Visual Culture and Associate's degree in Game Development.
 - 🌱 &nbsp; Currently Learning Back-end Development and Clean Code.
-- Open for freelance works.
+- 💡 &nbsp; Open for freelance works.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 - 🛢 &nbsp; MySQL | PostgreSQL | Firebase
 - 🔧 &nbsp; Git | Insomnia | Figma | Visual Studio Code | Docker
 
-### 📫🤝🏻 Connect with Me
+<h3> 📫 How to reach me</h3>
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-doval/) 👨🏻‍💻
-- Shoot Me an [Email](mailto:me@doval.dev) 💌
-- [GitHub Profile Summary](https://profile-summary-for-github.com/user/Dovalization)
+- 💼 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-doval/) 
+- 💌 &nbsp; Shoot Me an [Email](mailto:me@doval.dev) 
