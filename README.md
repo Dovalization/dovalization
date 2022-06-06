@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Master's degree in Design and Visual Culture and Associate's degree in Game Development.
 - 🌱 &nbsp; Currently Learning Back-end Development and Clean Code.
 - 💡 &nbsp; Open for freelance works.
+- 🌐 &nbsp; See my portfolio at [doval.dev](https://doval.dev).
 
 <h3>🛠 Tech Stack</h3>
 
