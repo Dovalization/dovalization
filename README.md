@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I turn ambitious visions into technology people can rely on by bridging technical excellence with design thinking.
+I turn ambitious visions into technology people can rely on by bridging technical excellence with design thinking and a passion for delivering the best user experience.
 
 - 🏢 **Recently:** Full-Stack Engineer at **Epic Games** building internal business tooling
 - 🎯 **Experience:** 7+ years building scalable user-facing applications and internal tools
