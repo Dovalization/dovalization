@@ -12,7 +12,7 @@ I turn ambitious visions into technology people can rely on by bridging technica
 - 🌍 **Remote:** Experienced collaborating with global teams across timezones
 - 🔍 **Currently:** Seeking Senior Frontend/Full-Stack opportunities with international teams
 
-## 💻 Technical Expertise
+## 💻 Skills
 
 **Frontend:**
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3
