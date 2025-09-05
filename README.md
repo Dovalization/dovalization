@@ -16,7 +16,7 @@ I turn ambitious visions into technology people can rely on by bridging technica
 
 **Frontend:**
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3
-- **Frameworks:** React, Next.js, React Native
+- **Frameworks:** React, Next.js
 - **Styling:** Tailwind CSS, CSS Modules, Styled Components
 - **Testing:** Vitest, Playwright, Jest, React Testing Library
 
@@ -28,7 +28,7 @@ I turn ambitious visions into technology people can rely on by bridging technica
 
 **Design & UX:**
 - **Tools:** Figma, Adobe Creative Suite, Storybook
-- **Skills:** Design Systems, User Research, Interface Psychology
+- **Skills:** Design Systems, User Research, UX Auditing
 
 ## 🌟 What Makes Me Different
 
