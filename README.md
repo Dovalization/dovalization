@@ -1,35 +1,46 @@
-### Hi there, I'm Guilherme Doval 👋🤓
+# Hi, I'm Guilherme Doval 👋
 
-<!--
-**onlyArsh/onlyArsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+**Senior Full-Stack Engineer | React/Next.js Expert | Design and User Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-<h3> 👨🏻‍💻 About Me </h3>
+I turn ambitious visions into technology people can rely on by bridging technical excellence with design thinking.
 
-- ✨ &nbsp; Passionate about Front-End development and UI/UX design.
-- 🎓 &nbsp; Master's degree in Design and Visual Culture and Associate's degree in Game Development.
-- 🌱 &nbsp; Currently Learning Back-end Development and Clean Code.
-- 💡 &nbsp; Open for freelance works.
-- 🌐 &nbsp; See my portfolio at [doval.dev](https://doval.dev).
+- 🏢 **Recently:** Full-Stack Engineer at **Epic Games** building internal business tooling
+- 🎯 **Experience:** 7+ years building scalable user-facing applications and internal tools
+- 🎓 **Background:** Unique combination of engineering expertise + Master's in Design and Visual Culture
+- 🌍 **Remote:** Experienced collaborating with global teams across timezones
+- 🔍 **Currently:** Seeking Senior Frontend/Full-Stack opportunities with international teams
 
-<h3>🛠 Tech Stack</h3>
+## 💻 Technical Expertise
 
-- 💻 &nbsp; Javascript | Typescript | C#
-- 🌐 &nbsp; HTML | CSS/SCSS | Node.js | ReactJS | React Native | NextJS | Express | GraphQL | RESTful APIs
-- 🛢 &nbsp; MySQL | PostgreSQL | Firebase
-- 🔧 &nbsp; Git | Insomnia | Figma | Visual Studio Code | Docker
+**Frontend:**
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Frameworks:** React, Next.js, React Native
+- **Styling:** Tailwind CSS, CSS Modules, Styled Components
+- **Testing:** Vitest, Playwright, Jest, React Testing Library
 
-<h3> 📫 How to reach me</h3>
+**Full-Stack:**
+- **Backend:** Node.js, NestJS, Express, GraphQL, REST APIs
+- **Databases:** PostgreSQL, Redis, MySQL
+- **Infrastructure:** Docker, GitHub Actions, CI/CD pipelines
+- **Observability:** OpenTelemetry, Grafana, monitoring & logging
 
-- 💼 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-doval/) 
-- 💌 &nbsp; Shoot Me an [Email](mailto:me@doval.dev) 
+**Design & UX:**
+- **Tools:** Figma, Adobe Creative Suite, Storybook
+- **Skills:** Design Systems, User Research, Interface Psychology
+
+## 🌟 What Makes Me Different
+
+What sets me apart is understanding that the experience of using a product matters as much as its technical efficiency. I don't just build what stakeholders ask for – I research what users actually need, then create solutions that work for both the business and the people using them.
+
+## 🤝 Let's Connect
+
+- 🌐 **Portfolio:** [doval.dev](https://doval.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/dovalization](https://linkedin.com/in/dovalization)
+- 📧 **Email:** [doval.guilherme94@gmail.com](mailto:doval.guilherme94@gmail.com)
+- 🇧🇷 **Location:** Porto Alegre, Brazil (open to remote opportunities globally)
+
+---
+
+*"Building technology that teams don't just use, but rely on."*
